@@ -1,4 +1,4 @@
-Function Get-FileName written by Working Sysadmin (http://http://www.workingsysadmin.com) (thanks!!)
+Function Get-FileName written by Working Sysadmin (http://www.workingsysadmin.com) (thanks!!)
 
 This script allows you to upload a local file to Azure blob storage.
 
