@@ -1,0 +1,3 @@
+Storageaccountname: blobstoragetestrens
+Storagekey: 9izhLSz+u2KyMl2tzJtnzcyftpbUj5LElxPoiD6e4gvoopezltEdejzDFE4eqMhMJdEg4ltZ1y09ZDINoOWDiQ==
+Storagecontainer: testcontainer
